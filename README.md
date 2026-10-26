@@ -1,3 +1,16 @@
+## Student Information
+- **Name:** Archie Sarmiento
+- **Section:** BSIT WMT 4-2
+- **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
+## Activity Description
+This is my pre-demo reading activity for ELEC 4 - Python Programming. I cloned
+the Flask Stack Simulator starter, explored its files (app.py, stack_model.py,
+templates, and static files), and completed the reading activity about how
+Python and Flask will connect to the HTML interface.
+
+---
+
 # Flask Stack Simulator startup template
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
